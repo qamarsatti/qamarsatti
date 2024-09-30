@@ -50,6 +50,6 @@ I'm an **AI Engineer** and **Full Stack Web Developer** with over **4 years of e
 
 ## 📫 Let's Connect!
 - **LinkedIn**: Qamar Satti(https://www.linkedin.com/in/qamarsatti/)
-- **Email**: qamarhayyatsatti@gmail.com(mailto:qamarhayyatsatti@gmail.com)
+- **Email**: qamarhayyatsatti@gmail.com
 
 Thanks for visiting! 🚀 Let's build something amazing together. 
