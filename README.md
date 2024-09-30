@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Qamar! 👋
 
 ## 🚀 About Me
 I'm an **AI Engineer** and **Full Stack Web Developer** with over **4 years of experience** in web development using **Python** and **2 years in AI**. I hold a **Master's degree in Artificial Intelligence** and have a passion for building intelligent systems that leverage cutting-edge AI technologies.
