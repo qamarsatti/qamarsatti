@@ -49,7 +49,7 @@ I'm an **AI Engineer** and **Full Stack Web Developer** with over **4 years of e
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername/)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **LinkedIn**: Qamar Satti(https://www.linkedin.com/in/qamarsatti/)
+- **Email**: qamarhayyatsatti@gmail.com(mailto:qamarhayyatsatti@gmail.com)
 
 Thanks for visiting! 🚀 Let's build something amazing together. 
